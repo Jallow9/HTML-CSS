@@ -44,7 +44,7 @@ In the following video you'll be rebuilding a responsive HTML5 website. Put your
 
 In this project you'll be building on an existing project. It's your job to make it `responsive` and look organised on various devices.
 
-Start off by downloading the HTML and images in the following [folder](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2/homework).
+Start off by downloading the HTML and images in the following [folder](https://github.com/SocialHackersCodeSchool/HTML-CSS/tree/master/Week2/homework).
 
 You are going to write the CSS for this page, **it is not allowed to change the HTML**.
 

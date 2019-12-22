@@ -1,15 +1,15 @@
-# Welcome to HackYourFuture!
+# Welcome to Social Hackers Academy!
 
-Hi new student, welcome to HackYourFuture! In this document you'll find all the instructions you need in order to prepare yourself for your upcoming journey in HackYourFuture, and beyond!
+Hi new student, welcome to Social Hackers Academy! In this document you'll find all the instructions you need in order to prepare yourself for your upcoming journey in Social Hackers Academy, and beyond!
 
 ## Agenda
 
 We'll discuss the following points:
 
-- How do I communicate with everybody? Use communication tool Slack
+- How do I communicate with everybody? Using Slack as the main communication tool
 - Where do I write my code? Inside a code editor called Visual Studio Code
-- What's the way to submit my homework? Use planning tool Trello
-- How do I put my code online? On software development platform GitHub
+- What's the way to submit my homework? Using a planning tool called Trello
+- How do I put my code online? On software development platform called GitHub
 
 ### How do I communicate with everybody? Use Slack
 
@@ -90,4 +90,4 @@ Let's make sure you have done everything necessary:
 
 Have you finished with everything? Be proud of yourself, as you have optimally prepared yourself with all the tools needed to make your coding adventure a success!
 
-Now, what will you be learning? Find out by clicking [here](https://github.com/HackYourFuture/curriculum).
+Now, what will you be learning? Find out by clicking [here](https://github.com/SocialHackersCodeSchool/curriculum).

@@ -2,7 +2,7 @@
 
 During this module you will hand in your homework in the following order:
 
-1. [GitHub](https://www.github.com/HackYourFuture/HTML-CSS).
+1. [GitHub](https://www.github.com/SocialHackersCodeSchool/HTML-CSS).
 
 You'll first create a personal GitHub repository (a storage place for code) in which you'll upload all the homework files.
 
@@ -20,7 +20,7 @@ At the beginning of the module:
 
 Then follow these steps for every week of the HTML/CSS/GIT module:
 
-2. Inside the new repository create a folder with the name of the appropriate week (ex. `week1`)
+2. Inside the new repository create a folder with the name of the appropriate week (e.g. `week1`)
 3. Upload the the homework files
 4. Before submitting the upload, write a message that says something about what you've done. For week1 the message could be: "wrote cli commands and build digital resume"
 5. Open the files in your folder to check if all of this worked.

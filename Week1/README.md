@@ -35,9 +35,9 @@ For more information, check the following resources and code along:
 
 HTML is the foundation of web development. It is an acronym for **HyperText Markup Language**. It is used to structure content on a webpage. What do we mean by content? Plain text, images, videos, links to other websites, etc. The structure gives content meaning by defining that content as, for example, headings, paragraphs, or images.
 
-In order to learn HTML properly it's important to know what is is. Go through the following video to learn more about it:
+In order to learn HTML properly it's important to know what is is. Go through the following videos to learn more about it:
 
-- [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)
+- [HTML Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 
 ### The commonly used tags
 

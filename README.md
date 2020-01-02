@@ -1,6 +1,6 @@
-> If you are following the HackYourFuture curriculum we recommend you to first take a look at the complete curriculum, which you can find [here](https://www.github.com/curriculum).
+> If you are following the curriculum we recommend you to first take a look at the complete curriculum, which you can find [here](https://www.github.com/curriculum).
 
-> Please help us improve and share your feedback! If you find better tutorials or links, please share them by [opening a pull request](https://github.com/HackYourFuture/HTML-CSS/pulls).
+> Please help us improve and share your feedback! If you find better tutorials or links, please share them by [opening a pull request](https://github.com/SocialHackersCodeSchool/HTML-CSS/pulls).
 
 # Module #1 - HTML, CSS and GIT (Frontend)
 
@@ -12,7 +12,7 @@ The products of HTML and CSS comprise a two-thirds of what is called `frontend` 
 
 Think of it like this: if a webpage were a person, the HTML would be the skeleton and CSS the skin and clothing!
 
-You'll also be learning [GIT](https//www.github.com/hackyourfuture/git), software that will allow you to save your folders and files in case they accidentally get deleted or end up corrupt. It can do much more and you'll learn all about that starting from week 2!
+You'll also be learning [GIT](https//www.github.com/SocialHackersCodeSchool/git), software that will allow you to save your folders and files in case they accidentally get deleted or end up corrupt. It can do much more and you'll learn all about that starting from week 2!
 
 ## Learning goals
 
@@ -53,6 +53,7 @@ If you have any questions or if something is not entirely clear ¯\\\_(ツ)\_/¯
 
 Have you finished the module? Great! Pat yourself on the back for the great work you've done.
 
-If you feel ready for the next challenge, click [here](https://www.github.com/hackyourfuture/javascript1) to go to **JavaScript1**!
+If you feel ready for the next challenge, click [here](https://www.github.com/SocialHackersCodeSchool/javascript1) to go to **JavaScript1**!
 
-_The HackYourFuture curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it :)_
+## Credit:
+This curriculum is developed by [HackYourFuture](http://www.hackyourfuture.net/), modifications, and changes can be found in this Fork. (edited) 
